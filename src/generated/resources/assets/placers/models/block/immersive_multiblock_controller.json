@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "down": "placers:block/immersive_multiblock_controller_top",
+    "east": "placers:block/immersive_multiblock_controller_side",
+    "north": "placers:block/immersive_multiblock_controller_side",
+    "particle": "placers:block/immersive_multiblock_controller_side",
+    "south": "placers:block/immersive_multiblock_controller_side",
+    "up": "placers:block/immersive_multiblock_controller_top",
+    "west": "placers:block/immersive_multiblock_controller_side"
+  }
+}

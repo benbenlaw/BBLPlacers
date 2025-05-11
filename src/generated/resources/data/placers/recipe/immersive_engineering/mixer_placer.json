@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "immersiveengineering:fluid_pipe"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:mixer_placer"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "immersiveengineering:treated_fence"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:sheetmetal_tank_placer"
+  }
+}

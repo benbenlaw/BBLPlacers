@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "immersiveengineering:sheetmetal_iron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:silo_placer"
+  }
+}

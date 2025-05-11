@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "minecraft:sculk"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:chunk_loader_placer"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "placers:item/improved_blast_furnace_placer"
+  }
+}

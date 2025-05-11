@@ -1,0 +1,25 @@
+{
+  "values": [
+    "placers:arc_furnace_placer",
+    "placers:metal_press_placer",
+    "placers:crusher_placer",
+    "placers:mixer_placer",
+    "placers:refinery_placer",
+    "placers:bottling_machine_placer",
+    "placers:blast_furnace_placer",
+    "placers:improved_blast_furnace_placer",
+    "placers:fermenter_placer",
+    "placers:assembler_placer",
+    "placers:auto_workbench_placer",
+    "placers:chunk_loader_placer",
+    "placers:diesel_generator_placer",
+    "placers:excavator_placer",
+    "placers:lightning_rod_placer",
+    "placers:radio_tower_placer",
+    "placers:sawmill_placer",
+    "placers:sheetmetal_tank_placer",
+    "placers:silo_placer",
+    "placers:fermenter_placer",
+    "placers:squeezer_placer"
+  ]
+}

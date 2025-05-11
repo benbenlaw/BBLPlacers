@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "immersiveengineering:concrete"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:radio_tower_placer"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "minecraft:cauldron"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:fermenter_placer"
+  }
+}

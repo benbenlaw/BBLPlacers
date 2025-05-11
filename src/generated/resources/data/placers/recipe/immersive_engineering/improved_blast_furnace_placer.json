@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "immersiveengineering:blastbrick_reinforced"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:improved_blast_furnace_placer"
+  }
+}

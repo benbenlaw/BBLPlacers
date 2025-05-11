@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "placers:item/sheetmetal_tank_placer"
+  }
+}
