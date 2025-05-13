@@ -1,10 +1,15 @@
 Changelog BBL Placers
 
+1.0.3
+Fixed changelog pointing to Roomopolis not Placers
+Actually run data to generate missing translations
+
 1.0.2
 Added auto updating
 now on modrinth
 Updated logo
 Fixed a couple of translation being wrong
+Added github source code
 
 1.0.1
 Added all placers
