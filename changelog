@@ -1,5 +1,11 @@
 Changelog BBL Placers
 
+1.1.1
+Fixed Excavator asking for bucket instead of the blocks for the bucket
+
+1.1.0
+Updated to latest Roomopolis Version
+
 1.0.3
 Fixed changelog pointing to Roomopolis not Placers
 Actually run data to generate missing translations

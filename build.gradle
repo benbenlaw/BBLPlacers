@@ -75,8 +75,8 @@ dependencies {
     runtimeOnly "curse.maven:bbl-core-1135181:6486837"
 
     //Roomopolis
-    compileOnly "curse.maven:roomopolis-1000075:6509857"
-    runtimeOnly "curse.maven:roomopolis-1000075:6509857"
+    compileOnly "curse.maven:roomopolis-1000075:6791908"
+    runtimeOnly "curse.maven:roomopolis-1000075:6791908"
 
     //Immersive Engineering
     compileOnly "curse.maven:immersive-engineering-231951:6506639"
