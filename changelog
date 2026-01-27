@@ -1,5 +1,12 @@
 Changelog BBL Placers
 
+1.2.1
+- Bumped min Roomopolis version to 1.21.1-2.8.2
+- Fixed placers having conflicting placements in the Item builder, increase placer height to 1000
+
+1.2.0
+- Now support latest roomopolis with JEI support
+
 1.1.1
 Fixed Excavator asking for bucket instead of the blocks for the bucket
 
