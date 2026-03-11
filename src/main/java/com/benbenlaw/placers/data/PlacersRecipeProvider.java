@@ -1,6 +1,8 @@
 package com.benbenlaw.placers.data;
 
 import blusunrize.immersiveengineering.ImmersiveEngineering;
+import blusunrize.immersiveengineering.api.IETags;
+import blusunrize.immersiveengineering.common.blocks.metal.MetalScaffoldingType;
 import blusunrize.immersiveengineering.common.register.IEBlocks;
 import blusunrize.immersiveengineering.common.register.IEItems;
 import com.benbenlaw.core.tag.CommonTags;
@@ -17,11 +19,14 @@ import net.minecraft.tags.TagKey;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
+import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.level.ItemLike;
 import net.neoforged.neoforge.common.Tags;
 
 import java.util.concurrent.CompletableFuture;
 
+import static blusunrize.immersiveengineering.common.register.IEBlocks.MetalDecoration.STEEL_CATWALK;
+import static blusunrize.immersiveengineering.common.register.IEBlocks.WoodenDevices.CRATE;
 import static com.benbenlaw.core.tag.CommonTags.ResourceType.DUSTS;
 import static com.benbenlaw.core.tag.CommonTags.ResourceType.PLATES;
 import static com.benbenlaw.core.tag.ResourceNames.IRON;
@@ -58,6 +63,15 @@ public class PlacersRecipeProvider extends RecipeProvider {
         createHammerShapelessRecipe(consumer, PlacersItems.SHEETMETAL_TANK_PLACER.toStack(), IEBlocks.WoodenDecoration.TREATED_FENCE, "sheetmetal_tank_placer");
         createHammerShapelessRecipe(consumer, PlacersItems.SILO_PLACER.toStack(), BuiltInRegistries.ITEM.get(ResourceLocation.parse("immersiveengineering:sheetmetal_iron")).getDefaultInstance().getItem(), "silo_placer");
         createHammerShapelessRecipe(consumer, PlacersItems.SQUEEZER_PLACER.toStack(), Tags.Items.SEEDS, "squeezer_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.COKE_OVEN.toStack(), IEBlocks.StoneDecoration.COKEBRICK, "coke_oven_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.SHELF.toStack(), STEEL_CATWALK, "shelf_placer");
+
+        createHammerShapelessRecipe(consumer, PlacersItems.COKER_UNIT.toStack(), IEItems.Ingredients.COAL_COKE, "coker_unit_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.HYDRO_TREATER.toStack(), Items.WATER_BUCKET , "hydro_treater_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.OIL_TANK.toStack(), IEItems.Misc.JERRYCAN, "oil_tank_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.DERRICK.toStack(), IEBlocks.MetalDecoration.STEEL_SCAFFOLDING.get(MetalScaffoldingType.STANDARD), "derrick_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.PUMPJACK.toStack(), IEBlocks.MetalDecoration.ENGINEERING_RS, "pumpjack_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.DISTILLATION_TOWER.toStack(), IEBlocks.MetalDecoration.STEEL_SCAFFOLDING.get(MetalScaffoldingType.GRATE_TOP), "distillation_tower_placer");
 
 
 

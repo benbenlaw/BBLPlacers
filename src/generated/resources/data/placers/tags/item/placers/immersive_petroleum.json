@@ -1,0 +1,10 @@
+{
+  "values": [
+    "placers:coker_unit_placer",
+    "placers:derrick_placer",
+    "placers:distillation_tower_placer",
+    "placers:hydro_treater_placer",
+    "placers:oil_tank_placer",
+    "placers:pumpjack_placer"
+  ]
+}

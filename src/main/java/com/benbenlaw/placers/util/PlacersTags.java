@@ -15,6 +15,7 @@ public class PlacersTags {
         //Items
         public static final TagKey<Item> PLACERS = tag(Placers.MOD_ID, "placers");
         public static final TagKey<Item> IMMERSIVE_ENGINEERING_PLACERS = tag(Placers.MOD_ID, "placers/immersive_engineering");
+        public static final TagKey<Item> IMMERSIVE_PETROLEUM_PLACERS = tag(Placers.MOD_ID, "placers/immersive_petroleum");
     }
 
 

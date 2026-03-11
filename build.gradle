@@ -82,6 +82,10 @@ dependencies {
     compileOnly "curse.maven:immersive-engineering-231951:6733669"
     runtimeOnly "curse.maven:immersive-engineering-231951:6733669"
 
+    //Immersive Petroleum
+    compileOnly "curse.maven:immersive-petroleum-268250:7512548"
+    runtimeOnly "curse.maven:immersive-petroleum-268250:7512548"
+
     //JEI
     compileOnly "curse.maven:jei-238222:5846880"
     runtimeOnly "curse.maven:jei-238222:5846880"

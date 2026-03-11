@@ -47,8 +47,16 @@ public class PlacersItemModelProvider extends ItemModelProvider {
         simpleItem(PlacersItems.SILO_PLACER);
         simpleItem(PlacersItems.FERMENTER_PLACER);
         simpleItem(PlacersItems.SQUEEZER_PLACER);
+
         simpleItem(PlacersItems.COKE_OVEN);
         simpleItem(PlacersItems.SHELF);
+
+        simpleItem(PlacersItems.DERRICK);
+        simpleItem(PlacersItems.COKER_UNIT);
+        simpleItem(PlacersItems.HYDRO_TREATER);
+        simpleItem(PlacersItems.OIL_TANK);
+        simpleItem(PlacersItems.PUMPJACK);
+        simpleItem(PlacersItems.DISTILLATION_TOWER);
 
 
 

@@ -28,6 +28,7 @@ public class PlacersItemTags extends ItemTagsProvider {
         //Placers
         tag(PlacersTags.Items.PLACERS)
                 .addTag(PlacersTags.Items.IMMERSIVE_ENGINEERING_PLACERS)
+                .addTag(PlacersTags.Items.IMMERSIVE_PETROLEUM_PLACERS)
         ;
 
         //Immersive Placers
@@ -58,7 +59,15 @@ public class PlacersItemTags extends ItemTagsProvider {
 
         ;
 
-
+        //Immersive Petroleum Placers
+        tag(PlacersTags.Items.IMMERSIVE_PETROLEUM_PLACERS)
+                .add(PlacersItems.COKER_UNIT.get())
+                .add(PlacersItems.DERRICK.get())
+                .add(PlacersItems.DISTILLATION_TOWER.get())
+                .add(PlacersItems.HYDRO_TREATER.get())
+                .add(PlacersItems.OIL_TANK.get())
+                .add(PlacersItems.PUMPJACK.get())
+        ;
 
 
     }

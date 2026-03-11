@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "immersiveengineering:steel_scaffolding_standard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:derrick_placer"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:hammer"
+    },
+    {
+      "item": "immersiveengineering:steel_scaffolding_grate_top"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "placers:distillation_tower_placer"
+  }
+}

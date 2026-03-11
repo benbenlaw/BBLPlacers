@@ -104,7 +104,30 @@ public class PlacersItems {
             "immersiveengineering:multiblocks/shelf", 2, -1, "placers:immersive_multiblock_controller",
           false, false, true, false, true, false, 0, 0, 0, 0, 1000));
 
+  //Immersive Petroleum Placers
+  public static final DeferredItem<Item> COKER_UNIT = ITEMS.register("coker_unit_placer", () -> new KeyItem(new Item.Properties(),
+          "placers:coker_unit", 11, -2, "placers:immersive_multiblock_controller",
+          false, false, true, false, true, false, 0, 0, 0, 0, 1000));
 
+  public static DeferredItem<Item> DERRICK = ITEMS.register("derrick_placer", () -> new KeyItem(new Item.Properties(),
+          "placers:derrick", 4, 0, "placers:immersive_multiblock_controller",
+          false, false, true, false, true, false, 0, 0, 0, 0, 1000));
+
+  public static DeferredItem<Item> HYDRO_TREATER = ITEMS.register("hydro_treater_placer", () -> new KeyItem(new Item.Properties(),
+          "placers:hydro", 1, 1, "placers:immersive_multiblock_controller",
+          false, false, true, false, true, false, 0, 0, 0, 0, 1000));
+
+  public static DeferredItem<Item> DISTILLATION_TOWER = ITEMS.register("distillation_tower_placer", () -> new KeyItem(new Item.Properties(),
+          "placers:tower", 8, 0, "placers:immersive_multiblock_controller",
+          false, false, true, false, true, false, 0, 0, 0, 0, 1000));
+
+    public static DeferredItem<Item> OIL_TANK = ITEMS.register("oil_tank_placer", () -> new KeyItem(new Item.Properties(),
+            "placers:oil_tank", 2, 0, "placers:immersive_multiblock_controller",
+            false, false, true, false, true, false, 0, 0, 0, 0, 1000));
+
+    public static DeferredItem<Item> PUMPJACK = ITEMS.register("pumpjack_placer", () -> new KeyItem(new Item.Properties(),
+            "placers:pumpjack", 2, 2, "placers:immersive_multiblock_controller",
+            false, false, true, false, true, false, 0, 0, 0, 0, 1000));
 
 
 
