@@ -53,6 +53,8 @@ public class PlacersItemTags extends ItemTagsProvider {
                 .add(PlacersItems.SILO_PLACER.get())
                 .add(PlacersItems.FERMENTER_PLACER.get())
                 .add(PlacersItems.SQUEEZER_PLACER.get())
+                .add(PlacersItems.COKE_OVEN.get())
+                .add(PlacersItems.SHELF.get())
 
         ;
 

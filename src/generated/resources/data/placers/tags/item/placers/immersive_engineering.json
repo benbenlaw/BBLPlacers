@@ -20,6 +20,8 @@
     "placers:sheetmetal_tank_placer",
     "placers:silo_placer",
     "placers:fermenter_placer",
-    "placers:squeezer_placer"
+    "placers:squeezer_placer",
+    "placers:coke_oven_placer",
+    "placers:shelf_placer"
   ]
 }

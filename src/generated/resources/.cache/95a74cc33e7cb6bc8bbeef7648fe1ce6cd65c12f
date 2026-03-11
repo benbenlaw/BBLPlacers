@@ -1,10 +1,11 @@
-// 1.21.1	2025-05-09T14:11:22.5418828	placers Item Models
+// 1.21.1	2026-03-11T10:56:55.1097397	placers Item Models
 db2c33c187bce195a18a5b0f7613975b6b46924d assets/placers/models/item/arc_furnace_placer.json
 b8605cd45a215e6c88770d816ffd1b1dc1290abd assets/placers/models/item/assembler_placer.json
 f5b6140c42265c734a1f8e7d665dbcc25c3c8d85 assets/placers/models/item/auto_workbench_placer.json
 ac7a01e78d829b66b4fedd6594a8c5d270bf81be assets/placers/models/item/blast_furnace_placer.json
 7d10ef898fb32b82cf14c0031bcf38d5c70cc749 assets/placers/models/item/bottling_machine_placer.json
 df2c2faf64108adb2f9219c5faa29e3323e68c7b assets/placers/models/item/chunk_loader_placer.json
+369999b1db07cbecdb7dd2dd7c6d8461480e1143 assets/placers/models/item/coke_oven_placer.json
 f8bf9c65d4a8f1e06f76d2284209f3c749f71a6b assets/placers/models/item/crusher_placer.json
 3585b823d11156cbe5940f6a95a7ff8431aeff89 assets/placers/models/item/diesel_generator_placer.json
 b807f8595f4655aac8b03fa8d0815d7d2634eb1b assets/placers/models/item/excavator_placer.json
@@ -17,5 +18,6 @@ fe5b48a175fd9c8752565b6fab63458bd4895ff5 assets/placers/models/item/improved_bla
 c07d644569113b56d6650fab810ae5e3cde51be8 assets/placers/models/item/refinery_placer.json
 6979068e65348c9633d95d3ea44feeea8b349b97 assets/placers/models/item/sawmill_placer.json
 ffe9ef8a99041fae3a7ca8b99b0738115c843302 assets/placers/models/item/sheetmetal_tank_placer.json
+465680598b1bc5812125d176c0cacb789782b35a assets/placers/models/item/shelf_placer.json
 eb0005f0d4c799ca9caeabb6be1c88f639c7a78d assets/placers/models/item/silo_placer.json
 96988c1b8b4b03dce14dbefc276a694ef7cd0b1a assets/placers/models/item/squeezer_placer.json

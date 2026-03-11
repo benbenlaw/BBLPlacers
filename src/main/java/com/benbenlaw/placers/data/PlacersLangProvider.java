@@ -41,6 +41,8 @@ public class PlacersLangProvider extends LanguageProvider {
         addItemTranslation("excavator_placer", "Excavator Placer");
         addItemTranslation("radio_tower_placer", "Radio Tower Placer");
         addItemTranslation("lightning_rod_placer", "Lightning Rod Placer");
+        addItemTranslation("coke_oven_placer", "Coke Oven Placer");
+        addItemTranslation("shelf_placer", "Shelf Placer");
     }
 
     private void addItemTranslation(String name, String translation) {

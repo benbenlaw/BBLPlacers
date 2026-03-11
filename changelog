@@ -1,5 +1,10 @@
 Changelog BBL Placers
 
+# 1.2.2
+- Updated to Immersive Engineering 1.21.1-12.4.2-194
+- Added Coke Oven Placer
+- Added Shelf Placer
+
 1.2.1
 - Bumped min Roomopolis version to 1.21.1-2.8.2
 - Fixed placers having conflicting placements in the Item builder, increase placer height to 1000

@@ -79,8 +79,8 @@ dependencies {
     runtimeOnly "curse.maven:roomopolis-1000075:7472797"
 
     //Immersive Engineering
-    compileOnly "curse.maven:immersive-engineering-231951:6506639"
-    runtimeOnly "curse.maven:immersive-engineering-231951:6506639"
+    compileOnly "curse.maven:immersive-engineering-231951:6733669"
+    runtimeOnly "curse.maven:immersive-engineering-231951:6733669"
 
     //JEI
     compileOnly "curse.maven:jei-238222:5846880"

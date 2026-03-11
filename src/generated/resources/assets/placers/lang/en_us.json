@@ -6,6 +6,7 @@
   "item.placers.blast_furnace_placer": "Blast Furnace Placer",
   "item.placers.bottling_machine_placer": "Bottling Machine Placer",
   "item.placers.chunk_loader_placer": "Chunk Loader Placer",
+  "item.placers.coke_oven_placer": "Coke Oven Placer",
   "item.placers.crusher_placer": "Crusher Placer",
   "item.placers.diesel_generator_placer": "Diesel Generator Placer",
   "item.placers.excavator_placer": "Excavator Placer",
@@ -18,6 +19,7 @@
   "item.placers.refinery_placer": "Refinery Placer",
   "item.placers.sawmill_placer": "Sawmill Placer",
   "item.placers.sheetmetal_tank_placer": "Sheetmetal Tank Placer",
+  "item.placers.shelf_placer": "Shelf Placer",
   "item.placers.silo_placer": "Silo Placer",
   "item.placers.squeezer_placer": "Squeezer Placer",
   "itemGroup.placers": "Placers"

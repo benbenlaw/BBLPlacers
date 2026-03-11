@@ -95,6 +95,15 @@ public class PlacersItems {
             "placers:squeezer", 1, 0, "placers:immersive_multiblock_controller",
             false, false, true, false, true, false, 0,0, 0, 0, 1000));
 
+  public static final DeferredItem<Item> COKE_OVEN = ITEMS.register("coke_oven_placer", () -> new KeyItem(new Item.Properties(),
+            "immersiveengineering:multiblocks/coke_oven", 1, 0, "placers:immersive_multiblock_controller",
+          false, false, true, false, true, false, 0, 0, 0, 0, 1000));
+
+
+  public static final DeferredItem<Item> SHELF = ITEMS.register("shelf_placer", () -> new KeyItem(new Item.Properties(),
+            "immersiveengineering:multiblocks/shelf", 2, -1, "placers:immersive_multiblock_controller",
+          false, false, true, false, true, false, 0, 0, 0, 0, 1000));
+
 
 
 

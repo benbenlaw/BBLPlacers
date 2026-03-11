@@ -47,6 +47,9 @@ public class PlacersItemModelProvider extends ItemModelProvider {
         simpleItem(PlacersItems.SILO_PLACER);
         simpleItem(PlacersItems.FERMENTER_PLACER);
         simpleItem(PlacersItems.SQUEEZER_PLACER);
+        simpleItem(PlacersItems.COKE_OVEN);
+        simpleItem(PlacersItems.SHELF);
+
 
 
 
