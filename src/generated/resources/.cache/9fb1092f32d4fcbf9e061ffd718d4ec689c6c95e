@@ -1,4 +1,4 @@
-// 1.21.1	2026-03-11T12:12:19.4113801	Recipes
+// 1.21.1	2026-04-06T08:51:53.5479572	Recipes
 9c3a5666ebfc511d4eae1d3e483c1da786e781ab data/placers/advancement/recipes/tools/immersive_engineering/arc_furnace_placer.json
 9c28bc5ddb6c7f31c9b7eadffe8bb23b491e538d data/placers/advancement/recipes/tools/immersive_engineering/assembler_placer.json
 925d363f0a14254c21e645f6e47d6bf7af5f4eba data/placers/advancement/recipes/tools/immersive_engineering/auto_workbench_placer.json
@@ -39,7 +39,7 @@ f98c81eaad1b9a6333955f9eaaecceaddfcc0648 data/placers/recipe/immersive_engineeri
 7c19ee94d8301579f5f8eeb1bc1be38fbd062729 data/placers/recipe/immersive_engineering/controller.json
 496b22a0a6eab7b26a4b694528a30af428824208 data/placers/recipe/immersive_engineering/crusher_placer.json
 cd09c61430b082e3f761103bf2603ea005da4f9f data/placers/recipe/immersive_engineering/derrick_placer.json
-76a0a0f5d74f36f0aaab18a5dc91c96bb86763d5 data/placers/recipe/immersive_engineering/diesel_generator_placer.json
+d58ffb24edd5ac91b6a234edac4465da1018cd98 data/placers/recipe/immersive_engineering/diesel_generator_placer.json
 3c31189a686bfd274c194189d204273de6915524 data/placers/recipe/immersive_engineering/distillation_tower_placer.json
 cf441623801d9ef7d999b3ff6439795b8e9cfef2 data/placers/recipe/immersive_engineering/excavator_placer.json
 8eade8700998c7b0ed58869f087815fbcf8c2288 data/placers/recipe/immersive_engineering/fermenter_placer.json

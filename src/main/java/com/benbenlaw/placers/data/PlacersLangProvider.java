@@ -47,7 +47,7 @@ public class PlacersLangProvider extends LanguageProvider {
 
         addItemTranslation("distillation_tower_placer", "Distillation Tower Placer");
         addItemTranslation("coker_unit_placer", "Coker Unit Placer");
-        addItemTranslation("hydro_treater_placer", "Hydro Treater Placer");
+        addItemTranslation("hydro_treater_placer", "High-Pressure Refinery Placer");
         addItemTranslation("oil_tank_placer", "Oil Tank Placer");
         addItemTranslation("derrick_placer", "Derrick Placer");
         addItemTranslation("pumpjack_placer", "Pumpjack Placer");

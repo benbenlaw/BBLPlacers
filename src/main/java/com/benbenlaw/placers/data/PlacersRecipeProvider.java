@@ -55,7 +55,7 @@ public class PlacersRecipeProvider extends RecipeProvider {
         createHammerShapelessRecipe(consumer, PlacersItems.FERMENTER_PLACER.toStack(), Items.CAULDRON, "fermenter_placer");
         createHammerShapelessRecipe(consumer, PlacersItems.AUTO_WORKBENCH_PLACER.toStack(), IEBlocks.WoodenDevices.CRAFTING_TABLE, "auto_workbench_placer");
         createHammerShapelessRecipe(consumer, PlacersItems.CHUNK_LOADER_PLACER.toStack(), Items.SCULK, "chunk_loader_placer");
-        createHammerShapelessRecipe(consumer, PlacersItems.DIESEL_GENERATOR_PLACER.toStack(), IEItems.Misc.JERRYCAN, "diesel_generator_placer");
+        createHammerShapelessRecipe(consumer, PlacersItems.DIESEL_GENERATOR_PLACER.toStack(), BuiltInRegistries.BLOCK.get(ResourceLocation.parse("immersiveengineering:radiator")), "diesel_generator_placer");
         createHammerShapelessRecipe(consumer, PlacersItems.EXCAVATOR_PLACER.toStack(), Items.IRON_PICKAXE, "excavator_placer");
         createHammerShapelessRecipe(consumer, PlacersItems.LIGHTNING_ROD_PLACER.toStack(), Items.LIGHTNING_ROD, "lightning_rod_placer");
         createHammerShapelessRecipe(consumer, PlacersItems.RADIO_TOWER_PLACER.toStack(), IEBlocks.StoneDecoration.CONCRETE, "radio_tower_placer");

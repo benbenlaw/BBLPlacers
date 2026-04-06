@@ -1,5 +1,9 @@
 Changelog BBL Placers
 
+# 1.3.1
+- Fixed duplicate uses for Jerry Can in recipes
+- Changed Hydro Placer name to High-Pressure Refinery Placer
+
 # 1.3.0
 - Added support for Immersive Petroleum
 - Added missing recipes
